@@ -1,0 +1,47 @@
+{
+      "naming_rules": {
+        "format": "camelCase",
+        "prefixes": {
+          "getter": "get",
+          "setter": "set",
+          "handler": "handle",
+          "utilities": "util",
+          "validator": "validate"
+        },
+        "reserved_names": ["main", "init", "helperFunction"]
+      },
+      "key_items": {
+        "Page": {
+          "singular": "page",
+          "plural": "pages",
+          "variables": ["pageId", "pageTitle", "pageContent"],
+          "description": "Represents a web page within the landing page."
+        },
+        "Section": {
+          "singular": "section",
+          "plural": "sections",
+          "variables": ["sectionId", "sectionTitle", "sectionContent"],
+          "description": "Represents a section within a web page."
+        },
+        "Component": {
+          "singular": "component",
+          "plural": "components",
+          "variables": ["componentId", "componentType", "componentData"],
+          "description": "Represents a reusable UI component."
+        },
+        "Translation": {
+          "singular": "translation",
+          "plural": "translations",
+          "variables": ["translationKey", "translationValue", "languageCode"],
+          "description": "Represents a translation string for the landing page."
+        },
+        "Flag": {
+          "singular": "flag",
+          "plural": "flags",
+          "variables": ["flagId", "flagImage", "languageCode"],
+          "description": "Represents a flag icon for language selection."
+        }
+      },
+       "existing_functions": [],
+      "description": "Function Naming Convention File for Simply Solutions landing page. Enforces standardized naming conventions for functions, variables, and key entities."
+    }

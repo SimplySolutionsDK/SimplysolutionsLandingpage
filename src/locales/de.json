@@ -1,0 +1,20 @@
+{
+      "welcome": "Willkommen bei Simply Solutions",
+      "partner": "Ihr vertrauenswürdiger Softwarepartner.",
+      "getStarted": "Loslegen",
+      "features": "Unsere Hauptmerkmale",
+      "automation": "Automatisierung",
+      "automationDescription": "Automatisieren Sie zeitaufwändige Aufgaben, um die Zeit und Ressourcen Ihres Teams freizusetzen.",
+      "processOptimization": "Prozessoptimierung",
+      "processOptimizationDescription": "Optimieren Sie Ihre Geschäftsprozesse durch intelligente Automatisierung für mehr Effizienz.",
+      "integration": "Integration",
+      "integrationDescription": "Integrieren Sie sich nahtlos in bestehende Systeme, um Ihren Workflow zu verbessern.",
+      "contactUs": "Kontaktieren Sie uns",
+      "contactUsDescription": "Haben Sie Fragen? Kontaktieren Sie uns!",
+      "contactNow": "Jetzt kontaktieren",
+      "home": "Startseite",
+      "about": "Über uns",
+      "products": "Produkte",
+      "contact": "Kontakt",
+      "footer": "© {{year}} Simply Solutions. Alle Rechte vorbehalten."
+    }

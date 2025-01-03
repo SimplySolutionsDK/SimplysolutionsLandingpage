@@ -1,0 +1,20 @@
+{
+      "welcome": "Velkommen til Simply Solutions",
+      "partner": "Din betroede softwarepartner.",
+      "getStarted": "Kom i gang",
+      "features": "Vores nøglefunktioner",
+      "automation": "Automatisering",
+      "automationDescription": "Automatiser tidskrævende opgaver for at frigøre dit teams tid og ressourcer.",
+      "processOptimization": "Procesoptimering",
+      "processOptimizationDescription": "Optimer dine forretningsprocesser gennem intelligent automatisering for øget effektivitet.",
+      "integration": "Integration",
+      "integrationDescription": "Integrer problemfrit med eksisterende systemer for at forbedre din arbejdsgang.",
+      "contactUs": "Kontakt os",
+      "contactUsDescription": "Har du spørgsmål? Kontakt os!",
+      "contactNow": "Kontakt nu",
+      "home": "Hjem",
+      "about": "Om os",
+      "products": "Produkter",
+      "contact": "Kontakt",
+      "footer": "© {{year}} Simply Solutions. Alle rettigheder forbeholdes."
+    }

@@ -1,0 +1,205 @@
+{
+      "files": [
+        {
+          "name": "package.json",
+          "location": "/",
+          "description": "Configuration file for npm packages and scripts.",
+          "functions": [],
+          "dependencies": [],
+          "status": "complete"
+        },
+        {
+          "name": "vite.config.js",
+          "location": "/",
+          "description": "Configuration file for Vite.",
+          "functions": [],
+          "dependencies": [],
+          "status": "complete"
+        },
+        {
+          "name": "tailwind.config.js",
+          "location": "/",
+          "description": "Configuration file for Tailwind CSS.",
+          "functions": [],
+          "dependencies": [],
+          "status": "complete"
+        },
+        {
+          "name": "postcss.config.js",
+          "location": "/",
+          "description": "Configuration file for PostCSS.",
+          "functions": [],
+          "dependencies": [],
+          "status": "complete"
+        },
+        {
+          "name": "index.html",
+          "location": "/",
+          "description": "Main HTML file for the landing page.",
+          "functions": [],
+          "dependencies": [],
+          "status": "complete"
+        },
+         {
+          "name": "src/main.jsx",
+          "location": "/src",
+          "description": "Entry point for the React application.",
+          "functions": [],
+          "dependencies": ["react", "react-dom", "./App.jsx", "./index.css", "./i18n.js"],
+          "status": "complete"
+        },
+        {
+          "name": "src/index.css",
+          "location": "/src",
+          "description": "Main CSS file for the application.",
+          "functions": [],
+          "dependencies": [],
+          "status": "complete"
+        },
+        {
+          "name": "src/i18n.js",
+          "location": "/src",
+          "description": "Configuration file for i18next internationalization.",
+          "functions": [],
+          "dependencies": ["i18next", "react-i18next", "./locales/en.json", "./locales/da.json", "./locales/de.json", "./locales/es.json"],
+          "status": "complete"
+        },
+        {
+          "name": "src/locales/en.json",
+          "location": "/src/locales",
+          "description": "English translations file.",
+          "functions": [],
+          "dependencies": [],
+          "status": "complete"
+        },
+        {
+          "name": "src/locales/da.json",
+          "location": "/src/locales",
+          "description": "Danish translations file.",
+          "functions": [],
+          "dependencies": [],
+          "status": "complete"
+        },
+        {
+          "name": "src/locales/de.json",
+          "location": "/src/locales",
+          "description": "German translations file.",
+          "functions": [],
+          "dependencies": [],
+          "status": "complete"
+        },
+        {
+          "name": "src/locales/es.json",
+          "location": "/src/locales",
+          "description": "Spanish translations file.",
+          "functions": [],
+          "dependencies": [],
+          "status": "complete"
+        },
+        {
+          "name": "src/App.jsx",
+          "location": "/src",
+          "description": "Main application component.",
+          "functions": [],
+          "dependencies": ["./components/Navbar", "./components/HeroSection", "./components/FeaturesSection", "./components/ContactSection", "./components/Footer"],
+          "status": "complete"
+        },
+        {
+          "name": "src/components/Navbar.jsx",
+          "location": "/src/components",
+          "description": "Navigation bar component.",
+          "functions": [],
+          "dependencies": ["../assets/simply-logo.png", "react-i18next", "./LanguageSelector.jsx"],
+          "status": "complete"
+        },
+        {
+          "name": "src/components/LanguageSelector.jsx",
+          "location": "/src/components",
+          "description": "Language selector component.",
+          "functions": [],
+          "dependencies": ["react-i18next", "../assets/en.png", "../assets/da.png", "../assets/de.png", "../assets/es.png"],
+          "status": "complete"
+        },
+        {
+          "name": "src/components/HeroSection.jsx",
+          "location": "/src/components",
+          "description": "Hero section of the landing page.",
+          "functions": [],
+          "dependencies": ["../assets/hero-image.jpg", "react-i18next"],
+          "status": "complete"
+        },
+        {
+          "name": "src/components/FeaturesSection.jsx",
+          "location": "/src/components",
+          "description": "Features section of the landing page.",
+          "functions": [],
+          "dependencies": ["react-i18next"],
+          "status": "complete"
+        },
+         {
+          "name": "src/components/ContactSection.jsx",
+          "location": "/src/components",
+          "description": "Contact section of the landing page.",
+          "functions": [],
+          "dependencies": ["react-i18next"],
+          "status": "complete"
+        },
+        {
+          "name": "src/components/Footer.jsx",
+          "location": "/src/components",
+          "description": "Footer component of the landing page.",
+          "functions": [],
+          "dependencies": ["react-i18next"],
+          "status": "complete"
+        },
+        {
+          "name": "src/assets/simply-logo.png",
+          "location": "/src/assets",
+          "description": "Logo image for Simply Solutions.",
+          "functions": [],
+          "dependencies": [],
+          "status": "complete"
+        },
+        {
+          "name": "src/assets/hero-image.jpg",
+          "location": "/src/assets",
+          "description": "Hero background image.",
+          "functions": [],
+          "dependencies": [],
+          "status": "complete"
+        },
+        {
+          "name": "src/assets/en.png",
+          "location": "/src/assets",
+          "description": "English flag icon.",
+          "functions": [],
+          "dependencies": [],
+          "status": "complete"
+        },
+        {
+          "name": "src/assets/da.png",
+          "location": "/src/assets",
+          "description": "Danish flag icon.",
+          "functions": [],
+          "dependencies": [],
+          "status": "complete"
+        },
+        {
+          "name": "src/assets/de.png",
+          "location": "/src/assets",
+          "description": "German flag icon.",
+          "functions": [],
+          "dependencies": [],
+          "status": "complete"
+        },
+        {
+          "name": "src/assets/es.png",
+          "location": "/src/assets",
+          "description": "Spanish flag icon.",
+          "functions": [],
+          "dependencies": [],
+          "status": "complete"
+        }
+      ],
+      "description": "Project Overview File for Simply Solutions landing page. Tracks all files, their purposes, dependencies, and statuses."
+    }

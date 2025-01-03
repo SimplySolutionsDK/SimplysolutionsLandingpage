@@ -1,0 +1,20 @@
+{
+      "welcome": "Welcome to Simply Solutions",
+      "partner": "Your trusted software partner.",
+      "getStarted": "Get Started",
+      "features": "Our Key Features",
+      "automation": "Automation",
+      "automationDescription": "Automate time-consuming tasks to free up your team's time and resources.",
+      "processOptimization": "Process Optimization",
+      "processOptimizationDescription": "Optimize your business processes through intelligent automation for increased efficiency.",
+      "integration": "Integration",
+      "integrationDescription": "Seamlessly integrate with existing systems to enhance your workflow.",
+      "contactUs": "Contact Us",
+      "contactUsDescription": "Have questions? Reach out to us!",
+      "contactNow": "Contact Now",
+      "home": "Home",
+      "about": "About Us",
+      "products": "Products",
+      "contact": "Contact",
+      "footer": "© {{year}} Simply Solutions. All rights reserved."
+    }
