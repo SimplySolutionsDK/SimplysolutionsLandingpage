@@ -9,9 +9,17 @@ import React from 'react';
           <div className="container mx-auto text-center px-4">
             <h2 className="text-2xl md:text-3xl font-bold mb-8 tracking-wide">{t('contactUs')}</h2>
             <p className="text-lg md:text-xl text-gray-300 mb-8">{t('contactUsDescription')}</p>
-            <button className="bg-blue-500 text-white font-bold py-3 px-6 rounded-full hover:bg-blue-600 transition duration-300 transform hover:scale-105">
+            <p className="text-base md:text-lg text-gray-400 mb-6">
+              <a href="mailto:jacob@simso.dk" className="text-blue-400 hover:text-blue-300 transition duration-200">
+                jacob@simso.dk
+              </a>
+            </p>
+            <a
+              href="mailto:jacob@simso.dk"
+              className="inline-block bg-blue-500 text-white font-bold py-3 px-6 rounded-full hover:bg-blue-600 transition duration-300 transform hover:scale-105"
+            >
               {t('contactNow')}
-            </button>
+            </a>
           </div>
         </section>
       );
